@@ -8,7 +8,7 @@ And the very important thing: I have to solve all the different problems that ou
 
 
 ### My free time activities 🏇🌳 
-Im my free time I currently contributing most to the [PowerToys repository](https://github.com/Microsoft/PowerTooys) and helping them by doing triage stuff. And If I am not doing something on my PC, then I am doing some sport or all other stuff in my privat life.
+In my free time I currently contributing most to the [PowerToys repository](https://github.com/Microsoft/PowerToys) and helping them by doing triage stuff. And If I am not doing something on my PC, then I am doing some sport or all the other stuff in my privat life.
 
 
 ### Scripting knowledge 💡📄
