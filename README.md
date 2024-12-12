@@ -1,7 +1,7 @@
 ## Hi there. <br/> It's me: Heiko (htcfreek)👋
 
 
-![Heiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=htcfreek&show_icons=true)
+![Heiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=htcfreek&show_icons=true&hide=contribs&show=reviews&theme=transparent)
 
 
 ### At work 🛠💻
