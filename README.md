@@ -1,9 +1,8 @@
 ## Hi there. <br/> It's me: Heiko (htcfreek)👋
 
 
-https://github-readme-stats.vercel.app/api?username=htcfreek&show_icons=true
+![Heiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=htcfreek&show_icons=true)
 
----
 
 ### At work 🛠💻
 There I am doing all the stuff around Windows 10 deployment, GPOs and automated software deployment.
